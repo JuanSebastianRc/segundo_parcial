@@ -119,6 +119,12 @@ body{
     margin: 2%;
     padding-top: 8%;
 }
+.reco{
+    text-align: center;
+    background-color: rgb(31, 16, 243);
+    border-style: solid;
+    border-color: gray;
+}
 .bloque13{
     background-color: rgb(31, 16, 243);
     padding: 15%;
